@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.podium {
+  border: 5px solid greenyellow;
+  width: 100%;
+
+  h1 {
+    text-align: center;
+  }
+  div.container {
+    display: flex;
+  }
+}
